@@ -1,0 +1,1570 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="800"
+   height="80"
+   viewBox="0 0 211.66666 21.166667"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="прыжок.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="true"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     guidecolor="#00d600"
+     guideopacity="0.6"
+     guidehicolor="#800000"
+     guidehiopacity="0.49803922"
+     showgrid="true"
+     inkscape:zoom="0.97815657"
+     inkscape:cx="453.4039"
+     inkscape:cy="-85.364657"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.26458333"
+       spacingy="0.26458334"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#ce22e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g35-3"
+       transform="translate(3.8403797,0.41549113)"
+       inkscape:label="патрик с пятнами">
+      <g
+         id="g13-9"
+         transform="translate(-50.590007,0.0956333)"
+         inkscape:label="patric"
+         style="fill:#ff8080">
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 68.806344,12.713112 c 1.405158,-2.08122 3.644661,-2.9067184 5.950818,-3.7868837 2.472228,-0.943548 -4.429302,6.5594257 -5.714137,6.4918027 -1.284838,-0.06762 -0.236681,-2.704919 -0.236681,-2.704919 z"
+           id="path1-9"
+           sodipodi:nodetypes="cssc"
+           inkscape:label="левая рука" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 80.133185,13.017416 c 1.666968,1.275634 2.911562,2.340879 3.206291,2.3569 0.182424,0.0099 1.608996,-0.658867 -0.09563,-3.168375 -1.386316,-2.040895 -3.628612,-1.876435 -3.076845,-2.197746 z"
+           id="path2-0"
+           sodipodi:nodetypes="csscc"
+           inkscape:label="правая рука" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 77.486868,18.576765 c 0,0 0.454258,1.099783 1.028057,1.314958 0.573799,0.215175 1.69749,-0.8607 1.745308,-1.267141 0.04781,-0.406442 -0.16736,-1.123691 -0.16736,-1.123691 l -2.343014,0.07173 z"
+           id="path3-80"
+           inkscape:label="правая нога" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 70.916659,14.21072 c 0.912911,-4.2940557 1.79201,-4.8350393 1.79201,-4.8350393 0,0 2.479837,-9.38318093 5.590492,-8.74076297 -0.682981,2.44766997 -0.453855,5.41158087 1.137989,8.16596797 1.687273,2.9195083 2.789117,3.3877583 1.961066,5.6127033 -0.585392,1.57293 -10.414598,0.501275 -10.481557,-0.202869 z"
+           id="path4-0"
+           sodipodi:nodetypes="cccssc"
+           inkscape:label="торс" />
+        <ellipse
+           style="fill:#ececec;stroke:#000000;stroke-width:0.214242;stroke-opacity:1"
+           id="ellipse4-0"
+           cx="78.389404"
+           cy="6.9035273"
+           rx="0.81440616"
+           ry="1.1787462"
+           inkscape:label="правый глаз" />
+        <path
+           style="fill:#c380d0;fill-opacity:1;stroke:#c573e7;stroke-width:0.11647;stroke-dasharray:none;stroke-opacity:1"
+           d="m 78.972769,6.3727964 c -0.207044,-0.4105232 -1.223992,0.189472 -1.223992,0.189472 0,0 0.176584,-0.6953458 0.523699,-0.7010473 0.346484,-0.00569 0.610071,0.2381046 0.690539,0.4774783"
+           id="path5-4"
+           sodipodi:nodetypes="ccsc"
+           inkscape:label="правое веко" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 72.298763,18.911482 c 0,0 0.167356,1.028057 1.195413,1.362774 1.02806,0.334716 2.008301,-1.458408 2.008301,-1.458408 l -0.09563,-0.836791 -3.036358,0.07173 z"
+           id="path6-8"
+           inkscape:label="левая нога" />
+        <path
+           style="fill:#89ff00;fill-opacity:1;stroke:#56175a;stroke-width:0.264307;stroke-opacity:1"
+           d="m 70.839953,14.48827 c -0.08274,0.08275 0.667789,3.215032 0.715696,3.801717 0.05991,0.733676 5.655949,0.313488 4.293639,0.311686 l 0.441049,-0.641829 0.68076,-0.100241 0.09542,0.645575 0.811125,0.143461 c 0,0 3.376756,-0.174296 3.244498,-0.406473 -0.110072,-0.193231 0.692378,-3.572314 0.405562,-3.658255 -0.349611,-0.104757 -0.973048,0.965772 -5.248244,0.597768 -4.621803,-0.39784 -5.372734,-0.76566 -5.391695,-0.741226 z"
+           id="path7-1"
+           sodipodi:nodetypes="sscccccssscs"
+           inkscape:label="шорты" />
+        <ellipse
+           style="fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="ellipse7-7"
+           cx="77.056519"
+           cy="6.8198485"
+           rx="1.0041494"
+           ry="1.344843"
+           inkscape:label="левый глаз" />
+        <path
+           style="fill:#ca7cdd;fill-opacity:1;stroke:#c573e7;stroke-width:0.160197;stroke-dasharray:none;stroke-opacity:1"
+           d="m 77.826771,6.3913523 c -0.95002,-0.7508968 -1.531534,0.2646518 -1.531534,0.2646518 -0.116193,0.1181407 0.132235,-0.9388967 0.612431,-1.0020585 0.545559,-0.071759 0.845656,0.5141769 0.881335,0.739702"
+           id="path8-5"
+           sodipodi:nodetypes="ccsc"
+           inkscape:label="левое веко" />
+        <path
+           style="fill:#a60080;fill-opacity:1;stroke:#56175a;stroke-width:0.15875;stroke-dasharray:none;stroke-opacity:1"
+           d="m 71.222887,16.23375 c 0.741159,-0.07173 0.478166,-0.14345 0.741159,-0.07173 0.262991,0.07173 0.478166,0 0.09563,1.028058 -0.382532,1.028057 0.836792,0.334716 0.836792,0.334716 0,0 0.286901,-0.191267 0.454258,-0.07173 0.16736,0.119542 0.43035,0.478166 0.43035,0.478166 l -0.07173,0.5738 -1.721397,0.09563 c 0,0 -0.382535,-0.191267 -0.454258,-0.454259 -0.07173,-0.262991 -0.310809,-1.912665 -0.310809,-1.912665 z"
+           id="path9-7"
+           inkscape:label="цветок левый" />
+        <path
+           style="fill:#c40080;fill-opacity:1;stroke:#561d6e;stroke-width:0.15875;stroke-dasharray:none;stroke-opacity:1"
+           d="m 77.582499,15.181784 c 0.525984,1.267141 0.07173,0.597708 0.573802,1.291049 0.502073,0.693341 0.8607,-0.669433 1.171506,-0.71725 0.310809,-0.04782 0.262993,0.382533 0,0.693342 -0.262991,0.310808 0,0.597708 0,0.597708 0,0 1.386684,-0.119542 1.386684,-0.43035 0,-0.310808 -0.358625,-0.71725 -0.310809,-0.8607 0.04782,-0.14345 0.406442,-0.02391 0.478165,0.191267 0.07173,0.215175 0.478169,0.167358 0.525984,0.02391 0.04782,-0.14345 0.215175,-1.314958 0.215175,-1.314958 0,0 -1.099783,0.191266 -1.147598,0.310808 -0.04782,0.119542 -2.892909,0.215175 -2.892909,0.215175 z"
+           id="path10-0"
+           inkscape:label="цветок правый" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.168324;stroke-dasharray:none;stroke-opacity:1"
+           d="m 79.911809,8.6348716 c 0,0 -2.272516,0.5304347 -2.893424,0.50456 -0.620904,-0.025875 -1.89997,-0.2458112 -2.409114,-0.8279959"
+           id="path11-0"
+           inkscape:label="лыба" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#001d00;stroke-width:0.15875;stroke-dasharray:none;stroke-opacity:1"
+           d="m 74.510282,8.7026287 c 0,0 0.08368,-0.4303498 0.418394,-0.5379373"
+           id="path12-3"
+           inkscape:label="тоже она" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.130997;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse12-6"
+           cx="77.250755"
+           cy="6.7876534"
+           rx="0.14066949"
+           ry="0.2421039"
+           inkscape:label="лев зрачок" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.116936;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse13-2"
+           cx="78.637039"
+           cy="6.8130112"
+           rx="0.13079436"
+           ry="0.24068163"
+           inkscape:label="прав зрачок" />
+      </g>
+      <g
+         id="g34-7"
+         inkscape:label="пятна">
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path25-1"
+           cx="28.164001"
+           cy="11.177139"
+           rx="0.2151749"
+           ry="0.20322073" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path26-1"
+           cx="27.279394"
+           cy="13.077851"
+           rx="0.19126657"
+           ry="0.14344993" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path27-3"
+           cx="30.11253"
+           cy="12.432327"
+           rx="0.11356453"
+           ry="0.22712906" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path28-45"
+           cx="20.274256"
+           cy="11.547719"
+           rx="0.2151749"
+           ry="0.14344993" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path29-3"
+           cx="19.007114"
+           cy="14.129818"
+           rx="0.19126657"
+           ry="0.28689986" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path30-0"
+           cx="23.717054"
+           cy="19.604824"
+           rx="0.19126657"
+           ry="0.2151749" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path31-9"
+           cx="26.729504"
+           cy="2.0441616"
+           rx="0.16735823"
+           ry="0.20322073"
+           inkscape:transform-center-x="-31.367717" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           d="m 29.192059,13.651651 c 0.382747,0.191426 0.475857,-0.127251 0.454258,-0.14345"
+           id="path33-2"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           d="m 29.144243,14.010276 c 0.144134,0.09425 0.289607,0.184818 0.496098,0.107588 0.155741,-0.04231 0.272385,-0.129298 0.316785,-0.298854"
+           id="path34-7"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15875;stroke-opacity:1"
+           d="M 26.534881,4.3133656 C 26.240175,4.4507464 25.92845,4.5668527 25.807935,4.921972 25.951802,4.8054617 26.069578,4.6237234 26.298201,4.7191033 26.020997,4.8427195 26.106917,5.0873773 26.078427,5.2938981 26.243848,5.1005723 26.352748,4.8365947 26.687033,4.854349"
+           id="path36-83"
+           sodipodi:nodetypes="ccccc"
+           transform="translate(-0.52598305,-0.28689985)" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15875;stroke-opacity:1"
+           d="m 25.503631,7.1957935 c -0.267561,-0.20985 0.462859,-0.7161888 0.836834,-0.8283812 0.14841,-0.04511 0.351104,-0.097092 0.642419,0.025359 0.206334,0.079217 0.362203,0.1585606 0.448002,0.1775102 L 27.88734,6.4012239 c 0.2124,-0.048362 0.41419,0.053937 0.481814,0.067623 l 0.270491,0.194416"
+           id="path35-96"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.135712;stroke-opacity:1"
+           d="m 27.591826,4.4461823 c 0.268804,0.110075 0.553131,0.203104 0.663053,0.4876398 -0.131222,-0.093353 -0.238647,-0.2389687 -0.447175,-0.1625465 0.252841,0.099046 0.174472,0.2950758 0.200458,0.4605486 C 27.841413,5.0769238 27.733127,4.8654144 27.453048,4.8796399"
+           id="path37-1"
+           sodipodi:nodetypes="ccccc"
+           transform="translate(-0.52598305,-0.28689985)" />
+      </g>
+    </g>
+    <g
+       id="g35-3-3"
+       transform="translate(125.95432,-0.15179013)"
+       inkscape:label="патрик с пятнами">
+      <g
+         id="g13-9-50"
+         transform="translate(-50.590007,0.0956333)"
+         inkscape:label="patric"
+         style="fill:#ff8080">
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 68.806344,12.713112 c 1.405158,-2.08122 3.644661,-2.9067184 5.950818,-3.7868837 2.472228,-0.943548 -4.429302,6.5594257 -5.714137,6.4918027 -1.284838,-0.06762 -0.236681,-2.704919 -0.236681,-2.704919 z"
+           id="path1-9-5"
+           sodipodi:nodetypes="cssc"
+           inkscape:label="левая рука" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 80.133185,13.017416 c 1.666968,1.275634 2.911562,2.340879 3.206291,2.3569 0.182424,0.0099 1.608996,-0.658867 -0.09563,-3.168375 -1.386316,-2.040895 -3.628612,-1.876435 -3.076845,-2.197746 z"
+           id="path2-0-9"
+           sodipodi:nodetypes="csscc"
+           inkscape:label="правая рука" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 77.486868,18.576765 c 0,0 0.454258,1.099783 1.028057,1.314958 0.573799,0.215175 1.69749,-0.8607 1.745308,-1.267141 0.04781,-0.406442 -0.16736,-1.123691 -0.16736,-1.123691 l -2.343014,0.07173 z"
+           id="path3-80-9"
+           inkscape:label="правая нога" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 70.916659,14.21072 c 0.912911,-4.2940557 1.79201,-4.8350393 1.79201,-4.8350393 0,0 2.479837,-9.38318093 5.590492,-8.74076297 -0.682981,2.44766997 -0.453855,5.41158087 1.137989,8.16596797 1.687273,2.9195083 2.789117,3.3877583 1.961066,5.6127033 -0.585392,1.57293 -10.414598,0.501275 -10.481557,-0.202869 z"
+           id="path4-0-8"
+           sodipodi:nodetypes="cccssc"
+           inkscape:label="торс" />
+        <ellipse
+           style="fill:#ececec;stroke:#000000;stroke-width:0.214242;stroke-opacity:1"
+           id="ellipse4-0-5"
+           cx="78.389404"
+           cy="6.9035273"
+           rx="0.81440616"
+           ry="1.1787462"
+           inkscape:label="правый глаз" />
+        <path
+           style="fill:#c380d0;fill-opacity:1;stroke:#c573e7;stroke-width:0.11647;stroke-dasharray:none;stroke-opacity:1"
+           d="m 78.972769,6.3727964 c -0.207044,-0.4105232 -1.223992,0.189472 -1.223992,0.189472 0,0 0.176584,-0.6953458 0.523699,-0.7010473 0.346484,-0.00569 0.610071,0.2381046 0.690539,0.4774783"
+           id="path5-4-4"
+           sodipodi:nodetypes="ccsc"
+           inkscape:label="правое веко" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 72.298763,18.911482 c 0,0 0.167356,1.028057 1.195413,1.362774 1.02806,0.334716 2.008301,-1.458408 2.008301,-1.458408 l -0.09563,-0.836791 -3.036358,0.07173 z"
+           id="path6-8-2"
+           inkscape:label="левая нога" />
+        <path
+           style="fill:#89ff00;fill-opacity:1;stroke:#56175a;stroke-width:0.264307;stroke-opacity:1"
+           d="m 70.839953,14.48827 c -0.08274,0.08275 0.667789,3.215032 0.715696,3.801717 0.05991,0.733676 5.655949,0.313488 4.293639,0.311686 l 0.441049,-0.641829 0.68076,-0.100241 0.09542,0.645575 0.811125,0.143461 c 0,0 3.376756,-0.174296 3.244498,-0.406473 -0.110072,-0.193231 0.692378,-3.572314 0.405562,-3.658255 -0.349611,-0.104757 -0.973048,0.965772 -5.248244,0.597768 -4.621803,-0.39784 -5.372734,-0.76566 -5.391695,-0.741226 z"
+           id="path7-1-5"
+           sodipodi:nodetypes="sscccccssscs"
+           inkscape:label="шорты" />
+        <ellipse
+           style="fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="ellipse7-7-0"
+           cx="77.056519"
+           cy="6.8198485"
+           rx="1.0041494"
+           ry="1.344843"
+           inkscape:label="левый глаз" />
+        <path
+           style="fill:#ca7cdd;fill-opacity:1;stroke:#c573e7;stroke-width:0.160197;stroke-dasharray:none;stroke-opacity:1"
+           d="m 77.826771,6.3913523 c -0.95002,-0.7508968 -1.531534,0.2646518 -1.531534,0.2646518 -0.116193,0.1181407 0.132235,-0.9388967 0.612431,-1.0020585 0.545559,-0.071759 0.845656,0.5141769 0.881335,0.739702"
+           id="path8-5-9"
+           sodipodi:nodetypes="ccsc"
+           inkscape:label="левое веко" />
+        <path
+           style="fill:#a60080;fill-opacity:1;stroke:#56175a;stroke-width:0.15875;stroke-dasharray:none;stroke-opacity:1"
+           d="m 71.222887,16.23375 c 0.741159,-0.07173 0.478166,-0.14345 0.741159,-0.07173 0.262991,0.07173 0.478166,0 0.09563,1.028058 -0.382532,1.028057 0.836792,0.334716 0.836792,0.334716 0,0 0.286901,-0.191267 0.454258,-0.07173 0.16736,0.119542 0.43035,0.478166 0.43035,0.478166 l -0.07173,0.5738 -1.721397,0.09563 c 0,0 -0.382535,-0.191267 -0.454258,-0.454259 -0.07173,-0.262991 -0.310809,-1.912665 -0.310809,-1.912665 z"
+           id="path9-7-9"
+           inkscape:label="цветок левый" />
+        <path
+           style="fill:#c40080;fill-opacity:1;stroke:#561d6e;stroke-width:0.15875;stroke-dasharray:none;stroke-opacity:1"
+           d="m 77.582499,15.181784 c 0.525984,1.267141 0.07173,0.597708 0.573802,1.291049 0.502073,0.693341 0.8607,-0.669433 1.171506,-0.71725 0.310809,-0.04782 0.262993,0.382533 0,0.693342 -0.262991,0.310808 0,0.597708 0,0.597708 0,0 1.386684,-0.119542 1.386684,-0.43035 0,-0.310808 -0.358625,-0.71725 -0.310809,-0.8607 0.04782,-0.14345 0.406442,-0.02391 0.478165,0.191267 0.07173,0.215175 0.478169,0.167358 0.525984,0.02391 0.04782,-0.14345 0.215175,-1.314958 0.215175,-1.314958 0,0 -1.099783,0.191266 -1.147598,0.310808 -0.04782,0.119542 -2.892909,0.215175 -2.892909,0.215175 z"
+           id="path10-0-7"
+           inkscape:label="цветок правый" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.168324;stroke-dasharray:none;stroke-opacity:1"
+           d="m 79.911809,8.6348716 c 0,0 -2.272516,0.5304347 -2.893424,0.50456 -0.620904,-0.025875 -1.89997,-0.2458112 -2.409114,-0.8279959"
+           id="path11-0-9"
+           inkscape:label="лыба" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#001d00;stroke-width:0.15875;stroke-dasharray:none;stroke-opacity:1"
+           d="m 74.510282,8.7026287 c 0,0 0.08368,-0.4303498 0.418394,-0.5379373"
+           id="path12-3-7"
+           inkscape:label="тоже она" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.130997;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse12-6-3"
+           cx="77.250755"
+           cy="6.7876534"
+           rx="0.14066949"
+           ry="0.2421039"
+           inkscape:label="лев зрачок" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.116936;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse13-2-35"
+           cx="78.637039"
+           cy="6.8130112"
+           rx="0.13079436"
+           ry="0.24068163"
+           inkscape:label="прав зрачок" />
+      </g>
+      <g
+         id="g34-7-12"
+         inkscape:label="пятна">
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path25-1-4"
+           cx="28.164001"
+           cy="11.177139"
+           rx="0.2151749"
+           ry="0.20322073" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path26-1-27"
+           cx="27.279394"
+           cy="13.077851"
+           rx="0.19126657"
+           ry="0.14344993" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path27-3-9"
+           cx="30.11253"
+           cy="12.432327"
+           rx="0.11356453"
+           ry="0.22712906" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path28-45-01"
+           cx="20.274256"
+           cy="11.547719"
+           rx="0.2151749"
+           ry="0.14344993" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path29-3-0"
+           cx="19.007114"
+           cy="14.129818"
+           rx="0.19126657"
+           ry="0.28689986" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path30-0-9"
+           cx="23.717054"
+           cy="19.604824"
+           rx="0.19126657"
+           ry="0.2151749" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path31-9-4"
+           cx="26.729504"
+           cy="2.0441616"
+           rx="0.16735823"
+           ry="0.20322073"
+           inkscape:transform-center-x="-31.367717" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           d="m 29.192059,13.651651 c 0.382747,0.191426 0.475857,-0.127251 0.454258,-0.14345"
+           id="path33-2-8"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           d="m 29.144243,14.010276 c 0.144134,0.09425 0.289607,0.184818 0.496098,0.107588 0.155741,-0.04231 0.272385,-0.129298 0.316785,-0.298854"
+           id="path34-7-9"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15875;stroke-opacity:1"
+           d="M 26.534881,4.3133656 C 26.240175,4.4507464 25.92845,4.5668527 25.807935,4.921972 25.951802,4.8054617 26.069578,4.6237234 26.298201,4.7191033 26.020997,4.8427195 26.106917,5.0873773 26.078427,5.2938981 26.243848,5.1005723 26.352748,4.8365947 26.687033,4.854349"
+           id="path36-83-1"
+           sodipodi:nodetypes="ccccc"
+           transform="translate(-0.52598305,-0.28689985)" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15875;stroke-opacity:1"
+           d="m 25.503631,7.1957935 c -0.267561,-0.20985 0.462859,-0.7161888 0.836834,-0.8283812 0.14841,-0.04511 0.351104,-0.097092 0.642419,0.025359 0.206334,0.079217 0.362203,0.1585606 0.448002,0.1775102 L 27.88734,6.4012239 c 0.2124,-0.048362 0.41419,0.053937 0.481814,0.067623 l 0.270491,0.194416"
+           id="path35-96-29"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.135712;stroke-opacity:1"
+           d="m 27.591826,4.4461823 c 0.268804,0.110075 0.553131,0.203104 0.663053,0.4876398 -0.131222,-0.093353 -0.238647,-0.2389687 -0.447175,-0.1625465 0.252841,0.099046 0.174472,0.2950758 0.200458,0.4605486 C 27.841413,5.0769238 27.733127,4.8654144 27.453048,4.8796399"
+           id="path37-1-5"
+           sodipodi:nodetypes="ccccc"
+           transform="translate(-0.52598305,-0.28689985)" />
+      </g>
+    </g>
+    <g
+       id="g35-3-4"
+       transform="translate(109.09585,-0.08416719)"
+       inkscape:label="патрик с пятнами1">
+      <g
+         id="g13-9-9"
+         transform="translate(-50.590007,0.0956333)"
+         inkscape:label="patric"
+         style="fill:#ff8080">
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 68.771657,11.775872 c 1.964098,-1.564692 4.348045,-1.681387 6.811962,-1.8302712 2.641348,-0.1596053 -6.190898,4.9312832 -7.396468,4.4818662 -1.205573,-0.449415 0.584506,-2.651595 0.584506,-2.651595 z"
+           id="path1-9-16"
+           sodipodi:nodetypes="cssc"
+           inkscape:label="левая рука" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 79.345083,12.854941 c 1.965209,0.737548 3.465189,1.396201 3.751904,1.326084 0.177459,-0.04341 1.348866,-1.097057 -1.010115,-3.004565 -1.91848,-1.551309 -4.016787,-0.743814 -3.581875,-1.211296 z"
+           id="path2-0-19"
+           sodipodi:nodetypes="csscc"
+           inkscape:label="правая рука" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 77.486868,18.576765 c 0,0 0.454258,1.099783 1.028057,1.314958 0.573799,0.215175 1.69749,-0.8607 1.745308,-1.267141 0.04781,-0.406442 -0.16736,-1.123691 -0.16736,-1.123691 l -2.343014,0.07173 z"
+           id="path3-80-41"
+           inkscape:label="правая нога" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 70.916659,14.21072 c 0.912911,-4.2940557 1.79201,-4.8350393 1.79201,-4.8350393 0,0 2.479837,-9.38318093 5.590492,-8.74076297 -0.682981,2.44766997 -0.453855,5.41158087 1.137989,8.16596797 1.687273,2.9195083 2.789117,3.3877583 1.961066,5.6127033 -0.585392,1.57293 -10.414598,0.501275 -10.481557,-0.202869 z"
+           id="path4-0-1"
+           sodipodi:nodetypes="cccssc"
+           inkscape:label="торс" />
+        <ellipse
+           style="fill:#ececec;stroke:#000000;stroke-width:0.214242;stroke-opacity:1"
+           id="ellipse4-0-6"
+           cx="78.389404"
+           cy="6.9035273"
+           rx="0.81440616"
+           ry="1.1787462"
+           inkscape:label="правый глаз" />
+        <path
+           style="fill:#c380d0;fill-opacity:1;stroke:#c573e7;stroke-width:0.11647;stroke-dasharray:none;stroke-opacity:1"
+           d="m 78.972769,6.3727964 c -0.207044,-0.4105232 -1.223992,0.189472 -1.223992,0.189472 0,0 0.176584,-0.6953458 0.523699,-0.7010473 0.346484,-0.00569 0.610071,0.2381046 0.690539,0.4774783"
+           id="path5-4-5"
+           sodipodi:nodetypes="ccsc"
+           inkscape:label="правое веко" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 72.298763,18.911482 c 0,0 0.167356,1.028057 1.195413,1.362774 1.02806,0.334716 2.008301,-1.458408 2.008301,-1.458408 l -0.09563,-0.836791 -3.036358,0.07173 z"
+           id="path6-8-20"
+           inkscape:label="левая нога" />
+        <path
+           style="fill:#89ff00;fill-opacity:1;stroke:#56175a;stroke-width:0.264307;stroke-opacity:1"
+           d="m 70.839953,14.48827 c -0.08274,0.08275 0.667789,3.215032 0.715696,3.801717 0.05991,0.733676 5.655949,0.313488 4.293639,0.311686 l 0.441049,-0.641829 0.68076,-0.100241 0.09542,0.645575 0.811125,0.143461 c 0,0 3.376756,-0.174296 3.244498,-0.406473 -0.110072,-0.193231 0.692378,-3.572314 0.405562,-3.658255 -0.349611,-0.104757 -0.973048,0.965772 -5.248244,0.597768 -4.621803,-0.39784 -5.372734,-0.76566 -5.391695,-0.741226 z"
+           id="path7-1-0"
+           sodipodi:nodetypes="sscccccssscs"
+           inkscape:label="шорты" />
+        <ellipse
+           style="fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="ellipse7-7-4"
+           cx="77.056519"
+           cy="6.8198485"
+           rx="1.0041494"
+           ry="1.344843"
+           inkscape:label="левый глаз" />
+        <path
+           style="fill:#ca7cdd;fill-opacity:1;stroke:#c573e7;stroke-width:0.160197;stroke-dasharray:none;stroke-opacity:1"
+           d="m 77.826771,6.3913523 c -0.95002,-0.7508968 -1.531534,0.2646518 -1.531534,0.2646518 -0.116193,0.1181407 0.132235,-0.9388967 0.612431,-1.0020585 0.545559,-0.071759 0.845656,0.5141769 0.881335,0.739702"
+           id="path8-5-0"
+           sodipodi:nodetypes="ccsc"
+           inkscape:label="левое веко" />
+        <path
+           style="fill:#a60080;fill-opacity:1;stroke:#56175a;stroke-width:0.15875;stroke-dasharray:none;stroke-opacity:1"
+           d="m 71.222887,16.23375 c 0.741159,-0.07173 0.478166,-0.14345 0.741159,-0.07173 0.262991,0.07173 0.478166,0 0.09563,1.028058 -0.382532,1.028057 0.836792,0.334716 0.836792,0.334716 0,0 0.286901,-0.191267 0.454258,-0.07173 0.16736,0.119542 0.43035,0.478166 0.43035,0.478166 l -0.07173,0.5738 -1.721397,0.09563 c 0,0 -0.382535,-0.191267 -0.454258,-0.454259 -0.07173,-0.262991 -0.310809,-1.912665 -0.310809,-1.912665 z"
+           id="path9-7-6"
+           inkscape:label="цветок левый" />
+        <path
+           style="fill:#c40080;fill-opacity:1;stroke:#561d6e;stroke-width:0.15875;stroke-dasharray:none;stroke-opacity:1"
+           d="m 77.582499,15.181784 c 0.525984,1.267141 0.07173,0.597708 0.573802,1.291049 0.502073,0.693341 0.8607,-0.669433 1.171506,-0.71725 0.310809,-0.04782 0.262993,0.382533 0,0.693342 -0.262991,0.310808 0,0.597708 0,0.597708 0,0 1.386684,-0.119542 1.386684,-0.43035 0,-0.310808 -0.358625,-0.71725 -0.310809,-0.8607 0.04782,-0.14345 0.406442,-0.02391 0.478165,0.191267 0.07173,0.215175 0.478169,0.167358 0.525984,0.02391 0.04782,-0.14345 0.215175,-1.314958 0.215175,-1.314958 0,0 -1.099783,0.191266 -1.147598,0.310808 -0.04782,0.119542 -2.892909,0.215175 -2.892909,0.215175 z"
+           id="path10-0-8"
+           inkscape:label="цветок правый" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.168324;stroke-dasharray:none;stroke-opacity:1"
+           d="m 79.911809,8.6348716 c 0,0 -2.272516,0.5304347 -2.893424,0.50456 -0.620904,-0.025875 -1.89997,-0.2458112 -2.409114,-0.8279959"
+           id="path11-0-26"
+           inkscape:label="лыба" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:0.15875;stroke-dasharray:none;stroke-opacity:1"
+           d="m 74.510282,8.7026287 c 0,0 0.08368,-0.4303498 0.418394,-0.5379373"
+           id="path12-3-1"
+           inkscape:label="тоже она" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.130997;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse12-6-21"
+           cx="77.081696"
+           cy="7.1595798"
+           rx="0.14066949"
+           ry="0.2421039"
+           inkscape:label="лев зрачок" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.116936;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse13-2-5"
+           cx="78.2313"
+           cy="7.218749"
+           rx="0.13079436"
+           ry="0.24068163"
+           inkscape:label="прав зрачок" />
+      </g>
+      <g
+         id="g34-7-8"
+         inkscape:label="пятна">
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path25-1-7"
+           cx="28.164001"
+           cy="11.177139"
+           rx="0.2151749"
+           ry="0.20322073" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path26-1-9"
+           cx="27.279394"
+           cy="13.077851"
+           rx="0.19126657"
+           ry="0.14344993" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path27-3-91"
+           cx="30.11253"
+           cy="12.432327"
+           rx="0.11356453"
+           ry="0.22712906" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path28-45-1"
+           cx="20.274256"
+           cy="11.547719"
+           rx="0.2151749"
+           ry="0.14344993" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path29-3-5"
+           cx="18.720215"
+           cy="13.460385"
+           rx="0.19126657"
+           ry="0.28689986" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path30-0-1"
+           cx="23.717054"
+           cy="19.604824"
+           rx="0.19126657"
+           ry="0.2151749" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path31-9-5"
+           cx="26.729504"
+           cy="2.0441616"
+           rx="0.16735823"
+           ry="0.20322073"
+           inkscape:transform-center-x="-31.367717" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           d="m 29.192059,13.651651 c 0.382747,0.191426 0.475857,-0.127251 0.454258,-0.14345"
+           id="path33-2-2"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           d="m 29.144243,14.010276 c 0.144134,0.09425 0.289607,0.184818 0.496098,0.107588 0.155741,-0.04231 0.272385,-0.129298 0.316785,-0.298854"
+           id="path34-7-26"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15875;stroke-opacity:1"
+           d="M 26.534881,4.3133656 C 26.240175,4.4507464 25.92845,4.5668527 25.807935,4.921972 25.951802,4.8054617 26.069578,4.6237234 26.298201,4.7191033 26.020997,4.8427195 26.106917,5.0873773 26.078427,5.2938981 26.243848,5.1005723 26.352748,4.8365947 26.687033,4.854349"
+           id="path36-83-2"
+           sodipodi:nodetypes="ccccc"
+           transform="translate(-0.52598305,-0.28689985)" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15875;stroke-opacity:1"
+           d="m 25.503631,7.1957935 c -0.267561,-0.20985 0.462859,-0.7161888 0.836834,-0.8283812 0.14841,-0.04511 0.351104,-0.097092 0.642419,0.025359 0.206334,0.079217 0.362203,0.1585606 0.448002,0.1775102 L 27.88734,6.4012239 c 0.2124,-0.048362 0.41419,0.053937 0.481814,0.067623 l 0.270491,0.194416"
+           id="path35-96-5"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.135712;stroke-opacity:1"
+           d="m 27.591826,4.4461823 c 0.268804,0.110075 0.553131,0.203104 0.663053,0.4876398 -0.131222,-0.093353 -0.238647,-0.2389687 -0.447175,-0.1625465 0.252841,0.099046 0.174472,0.2950758 0.200458,0.4605486 C 27.841413,5.0769238 27.733127,4.8654144 27.453048,4.8796399"
+           id="path37-1-36"
+           sodipodi:nodetypes="ccccc"
+           transform="translate(-0.52598305,-0.28689985)" />
+      </g>
+    </g>
+    <g
+       id="g35-3-5"
+       transform="translate(21.550291,-0.02245273)"
+       inkscape:label="патрик с пятнами2">
+      <g
+         id="g13-9-5"
+         transform="translate(-50.590007,0.0956333)"
+         inkscape:label="patric"
+         style="fill:#ff8080">
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 68.782067,11.695163 c 2.004562,-1.512506 4.390753,-1.566477 6.857733,-1.650522 2.644631,-0.090097 -6.318423,4.766793 -7.511759,4.285831 -1.193339,-0.48096 0.654026,-2.635309 0.654026,-2.635309 z"
+           id="path1-9-1"
+           sodipodi:nodetypes="cssc"
+           inkscape:label="левая рука" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 79.663743,12.850854 c 1.948889,0.779651 3.434353,1.470417 3.72251,1.406485 0.178352,-0.03959 1.372153,-1.067788 -0.94525,-3.025599 -1.884665,-1.5922185 -3.999856,-0.830047 -3.554989,-1.2880655 z"
+           id="path2-0-2"
+           sodipodi:nodetypes="csscc"
+           inkscape:label="правая рука" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 77.486868,18.576765 c 0,0 0.454258,1.099783 1.028057,1.314958 0.573799,0.215175 1.69749,-0.8607 1.745308,-1.267141 0.04781,-0.406442 -0.16736,-1.123691 -0.16736,-1.123691 l -2.343014,0.07173 z"
+           id="path3-80-7"
+           inkscape:label="правая нога" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 70.916659,14.21072 c 0.912911,-4.2940557 1.79201,-4.8350393 1.79201,-4.8350393 0,0 2.479837,-9.38318093 5.590492,-8.74076297 -0.682981,2.44766997 -0.453855,5.41158087 1.137989,8.16596797 1.687273,2.9195083 2.789117,3.3877583 1.961066,5.6127033 -0.585392,1.57293 -10.414598,0.501275 -10.481557,-0.202869 z"
+           id="path4-0-0"
+           sodipodi:nodetypes="cccssc"
+           inkscape:label="торс" />
+        <ellipse
+           style="fill:#ececec;stroke:#000000;stroke-width:0.214242;stroke-opacity:1"
+           id="ellipse4-0-8"
+           cx="78.389404"
+           cy="6.9035273"
+           rx="0.81440616"
+           ry="1.1787462"
+           inkscape:label="правый глаз" />
+        <path
+           style="fill:#c380d0;fill-opacity:1;stroke:#c573e7;stroke-width:0.11647;stroke-dasharray:none;stroke-opacity:1"
+           d="m 78.972769,6.3727964 c -0.207044,-0.4105232 -1.223992,0.189472 -1.223992,0.189472 0,0 0.176584,-0.6953458 0.523699,-0.7010473 0.346484,-0.00569 0.610071,0.2381046 0.690539,0.4774783"
+           id="path5-4-74"
+           sodipodi:nodetypes="ccsc"
+           inkscape:label="правое веко" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 72.298763,18.911482 c 0,0 0.167356,1.028057 1.195413,1.362774 1.02806,0.334716 2.008301,-1.458408 2.008301,-1.458408 l -0.09563,-0.836791 -3.036358,0.07173 z"
+           id="path6-8-1"
+           inkscape:label="левая нога" />
+        <path
+           style="fill:#89ff00;fill-opacity:1;stroke:#56175a;stroke-width:0.264307;stroke-opacity:1"
+           d="m 70.839953,14.48827 c -0.08274,0.08275 0.667789,3.215032 0.715696,3.801717 0.05991,0.733676 5.655949,0.313488 4.293639,0.311686 l 0.441049,-0.641829 0.68076,-0.100241 0.09542,0.645575 0.811125,0.143461 c 0,0 3.376756,-0.174296 3.244498,-0.406473 -0.110072,-0.193231 0.692378,-3.572314 0.405562,-3.658255 -0.349611,-0.104757 -0.973048,0.965772 -5.248244,0.597768 -4.621803,-0.39784 -5.372734,-0.76566 -5.391695,-0.741226 z"
+           id="path7-1-6"
+           sodipodi:nodetypes="sscccccssscs"
+           inkscape:label="шорты" />
+        <ellipse
+           style="fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="ellipse7-7-8"
+           cx="77.056519"
+           cy="6.8198485"
+           rx="1.0041494"
+           ry="1.344843"
+           inkscape:label="левый глаз" />
+        <path
+           style="fill:#ca7cdd;fill-opacity:1;stroke:#c573e7;stroke-width:0.160197;stroke-dasharray:none;stroke-opacity:1"
+           d="m 77.826771,6.3913523 c -0.95002,-0.7508968 -1.531534,0.2646518 -1.531534,0.2646518 -0.116193,0.1181407 0.132235,-0.9388967 0.612431,-1.0020585 0.545559,-0.071759 0.845656,0.5141769 0.881335,0.739702"
+           id="path8-5-5"
+           sodipodi:nodetypes="ccsc"
+           inkscape:label="левое веко" />
+        <path
+           style="fill:#a60080;fill-opacity:1;stroke:#56175a;stroke-width:0.15875;stroke-dasharray:none;stroke-opacity:1"
+           d="m 71.222887,16.23375 c 0.741159,-0.07173 0.478166,-0.14345 0.741159,-0.07173 0.262991,0.07173 0.478166,0 0.09563,1.028058 -0.382532,1.028057 0.836792,0.334716 0.836792,0.334716 0,0 0.286901,-0.191267 0.454258,-0.07173 0.16736,0.119542 0.43035,0.478166 0.43035,0.478166 l -0.07173,0.5738 -1.721397,0.09563 c 0,0 -0.382535,-0.191267 -0.454258,-0.454259 -0.07173,-0.262991 -0.310809,-1.912665 -0.310809,-1.912665 z"
+           id="path9-7-7"
+           inkscape:label="цветок левый" />
+        <path
+           style="fill:#c40080;fill-opacity:1;stroke:#561d6e;stroke-width:0.15875;stroke-dasharray:none;stroke-opacity:1"
+           d="m 77.582499,15.181784 c 0.525984,1.267141 0.07173,0.597708 0.573802,1.291049 0.502073,0.693341 0.8607,-0.669433 1.171506,-0.71725 0.310809,-0.04782 0.262993,0.382533 0,0.693342 -0.262991,0.310808 0,0.597708 0,0.597708 0,0 1.386684,-0.119542 1.386684,-0.43035 0,-0.310808 -0.358625,-0.71725 -0.310809,-0.8607 0.04782,-0.14345 0.406442,-0.02391 0.478165,0.191267 0.07173,0.215175 0.478169,0.167358 0.525984,0.02391 0.04782,-0.14345 0.215175,-1.314958 0.215175,-1.314958 0,0 -1.099783,0.191266 -1.147598,0.310808 -0.04782,0.119542 -2.892909,0.215175 -2.892909,0.215175 z"
+           id="path10-0-9"
+           inkscape:label="цветок правый" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.168324;stroke-dasharray:none;stroke-opacity:1"
+           d="m 80.013243,8.8715519 c -0.04685,-0.2342455 -2.417236,0.077326 -2.994858,0.2678797 -0.590159,0.1946895 -0.818003,0.6670986 -1.327147,0.084914"
+           id="path11-0-2"
+           inkscape:label="лыба"
+           sodipodi:nodetypes="csc" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:0.15875;stroke-dasharray:none;stroke-opacity:1"
+           d="m 75.524626,9.5479156 c 0,0.02078 0.08368,-0.3659064 0.418394,-0.5379373"
+           id="path12-3-3"
+           inkscape:label="тоже она"
+           sodipodi:nodetypes="cc" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.130997;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse12-6-7"
+           cx="77.318375"
+           cy="7.058145"
+           rx="0.14066949"
+           ry="0.2421039"
+           inkscape:label="лев зрачок" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.116936;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse13-2-9"
+           cx="78.535606"
+           cy="7.1173143"
+           rx="0.13079436"
+           ry="0.24068163"
+           inkscape:label="прав зрачок" />
+      </g>
+      <g
+         id="g34-7-4"
+         inkscape:label="пятна">
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path25-1-3"
+           cx="28.164001"
+           cy="11.177139"
+           rx="0.2151749"
+           ry="0.20322073" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path26-1-2"
+           cx="27.279394"
+           cy="13.077851"
+           rx="0.19126657"
+           ry="0.14344993" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path27-3-1"
+           cx="30.11253"
+           cy="12.432327"
+           rx="0.11356453"
+           ry="0.22712906" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path28-45-7"
+           cx="20.274256"
+           cy="11.547719"
+           rx="0.2151749"
+           ry="0.14344993" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path29-3-7"
+           cx="18.668999"
+           cy="13.385965"
+           rx="0.19126657"
+           ry="0.28689986" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path30-0-5"
+           cx="23.717054"
+           cy="19.604824"
+           rx="0.19126657"
+           ry="0.2151749" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path31-9-11"
+           cx="26.729504"
+           cy="2.0441616"
+           rx="0.16735823"
+           ry="0.20322073"
+           inkscape:transform-center-x="-31.367717" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           d="m 29.192059,13.651651 c 0.382747,0.191426 0.475857,-0.127251 0.454258,-0.14345"
+           id="path33-2-9"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           d="m 29.144243,14.010276 c 0.144134,0.09425 0.289607,0.184818 0.496098,0.107588 0.155741,-0.04231 0.272385,-0.129298 0.316785,-0.298854"
+           id="path34-7-4"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15875;stroke-opacity:1"
+           d="m 26.297254,4.3972958 c -0.314248,-0.083506 -0.627918,-0.1942494 -0.948078,0.00102 0.185107,0.00282 0.392008,-0.061149 0.506316,0.158622 -0.291992,-0.082848 -0.382905,0.1599982 -0.537172,0.3002275 0.250896,-0.042315 0.503709,-0.1750881 0.748874,0.05285"
+           id="path36-83-4"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15875;stroke-opacity:1"
+           d="m 25.503631,7.1957935 c -0.267561,-0.20985 0.462859,-0.7161888 0.836834,-0.8283812 0.14841,-0.04511 0.351104,-0.097092 0.642419,0.025359 0.206334,0.079217 0.362203,0.1585606 0.448002,0.1775102 L 27.88734,6.4012239 c 0.2124,-0.048362 0.41419,0.053937 0.481814,0.067623 l 0.270491,0.194416"
+           id="path35-96-3"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.135712;stroke-opacity:1"
+           d="m 27.591826,4.4461823 c 0.268804,0.110075 0.553131,0.203104 0.663053,0.4876398 -0.131222,-0.093353 -0.238647,-0.2389687 -0.447175,-0.1625465 0.252841,0.099046 0.174472,0.2950758 0.200458,0.4605486 C 27.841413,5.0769238 27.733127,4.8654144 27.453048,4.8796399"
+           id="path37-1-3"
+           sodipodi:nodetypes="ccccc"
+           transform="translate(-0.52598305,-0.28689985)" />
+      </g>
+    </g>
+    <g
+       id="g35-3-5-4"
+       transform="translate(91.749236,0.05107871)"
+       inkscape:label="патрик с пятнами2">
+      <g
+         id="g13-9-5-0"
+         transform="translate(-50.590007,0.0956333)"
+         inkscape:label="patric"
+         style="fill:#ff8080">
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 68.782067,11.695163 c 2.004562,-1.512506 4.390753,-1.566477 6.857733,-1.650522 2.644631,-0.090097 -6.318423,4.766793 -7.511759,4.285831 -1.193339,-0.48096 0.654026,-2.635309 0.654026,-2.635309 z"
+           id="path1-9-1-4"
+           sodipodi:nodetypes="cssc"
+           inkscape:label="левая рука" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 79.663743,12.850854 c 1.948889,0.779651 3.434353,1.470417 3.72251,1.406485 0.178352,-0.03959 1.372153,-1.067788 -0.94525,-3.025599 -1.884665,-1.5922185 -3.999856,-0.830047 -3.554989,-1.2880655 z"
+           id="path2-0-2-5"
+           sodipodi:nodetypes="csscc"
+           inkscape:label="правая рука" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 77.486868,18.576765 c 0,0 0.454258,1.099783 1.028057,1.314958 0.573799,0.215175 1.69749,-0.8607 1.745308,-1.267141 0.04781,-0.406442 -0.16736,-1.123691 -0.16736,-1.123691 l -2.343014,0.07173 z"
+           id="path3-80-7-6"
+           inkscape:label="правая нога" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 70.916659,14.21072 c 0.912911,-4.2940557 1.79201,-4.8350393 1.79201,-4.8350393 0,0 2.479837,-9.38318093 5.590492,-8.74076297 -0.682981,2.44766997 -0.453855,5.41158087 1.137989,8.16596797 1.687273,2.9195083 2.789117,3.3877583 1.961066,5.6127033 -0.585392,1.57293 -10.414598,0.501275 -10.481557,-0.202869 z"
+           id="path4-0-0-4"
+           sodipodi:nodetypes="cccssc"
+           inkscape:label="торс" />
+        <ellipse
+           style="fill:#ececec;stroke:#000000;stroke-width:0.214242;stroke-opacity:1"
+           id="ellipse4-0-8-0"
+           cx="78.389404"
+           cy="6.9035273"
+           rx="0.81440616"
+           ry="1.1787462"
+           inkscape:label="правый глаз" />
+        <path
+           style="fill:#c380d0;fill-opacity:1;stroke:#c573e7;stroke-width:0.11647;stroke-dasharray:none;stroke-opacity:1"
+           d="m 78.972769,6.3727964 c -0.207044,-0.4105232 -1.223992,0.189472 -1.223992,0.189472 0,0 0.176584,-0.6953458 0.523699,-0.7010473 0.346484,-0.00569 0.610071,0.2381046 0.690539,0.4774783"
+           id="path5-4-74-2"
+           sodipodi:nodetypes="ccsc"
+           inkscape:label="правое веко" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 72.298763,18.911482 c 0,0 0.167356,1.028057 1.195413,1.362774 1.02806,0.334716 2.008301,-1.458408 2.008301,-1.458408 l -0.09563,-0.836791 -3.036358,0.07173 z"
+           id="path6-8-1-2"
+           inkscape:label="левая нога" />
+        <path
+           style="fill:#89ff00;fill-opacity:1;stroke:#56175a;stroke-width:0.264307;stroke-opacity:1"
+           d="m 70.839953,14.48827 c -0.08274,0.08275 0.667789,3.215032 0.715696,3.801717 0.05991,0.733676 5.655949,0.313488 4.293639,0.311686 l 0.441049,-0.641829 0.68076,-0.100241 0.09542,0.645575 0.811125,0.143461 c 0,0 3.376756,-0.174296 3.244498,-0.406473 -0.110072,-0.193231 0.692378,-3.572314 0.405562,-3.658255 -0.349611,-0.104757 -0.973048,0.965772 -5.248244,0.597768 -4.621803,-0.39784 -5.372734,-0.76566 -5.391695,-0.741226 z"
+           id="path7-1-6-7"
+           sodipodi:nodetypes="sscccccssscs"
+           inkscape:label="шорты" />
+        <ellipse
+           style="fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="ellipse7-7-8-7"
+           cx="77.056519"
+           cy="6.8198485"
+           rx="1.0041494"
+           ry="1.344843"
+           inkscape:label="левый глаз" />
+        <path
+           style="fill:#ca7cdd;fill-opacity:1;stroke:#c573e7;stroke-width:0.160197;stroke-dasharray:none;stroke-opacity:1"
+           d="m 77.826771,6.3913523 c -0.95002,-0.7508968 -1.531534,0.2646518 -1.531534,0.2646518 -0.116193,0.1181407 0.132235,-0.9388967 0.612431,-1.0020585 0.545559,-0.071759 0.845656,0.5141769 0.881335,0.739702"
+           id="path8-5-5-0"
+           sodipodi:nodetypes="ccsc"
+           inkscape:label="левое веко" />
+        <path
+           style="fill:#a60080;fill-opacity:1;stroke:#56175a;stroke-width:0.15875;stroke-dasharray:none;stroke-opacity:1"
+           d="m 71.222887,16.23375 c 0.741159,-0.07173 0.478166,-0.14345 0.741159,-0.07173 0.262991,0.07173 0.478166,0 0.09563,1.028058 -0.382532,1.028057 0.836792,0.334716 0.836792,0.334716 0,0 0.286901,-0.191267 0.454258,-0.07173 0.16736,0.119542 0.43035,0.478166 0.43035,0.478166 l -0.07173,0.5738 -1.721397,0.09563 c 0,0 -0.382535,-0.191267 -0.454258,-0.454259 -0.07173,-0.262991 -0.310809,-1.912665 -0.310809,-1.912665 z"
+           id="path9-7-7-9"
+           inkscape:label="цветок левый" />
+        <path
+           style="fill:#c40080;fill-opacity:1;stroke:#561d6e;stroke-width:0.15875;stroke-dasharray:none;stroke-opacity:1"
+           d="m 77.582499,15.181784 c 0.525984,1.267141 0.07173,0.597708 0.573802,1.291049 0.502073,0.693341 0.8607,-0.669433 1.171506,-0.71725 0.310809,-0.04782 0.262993,0.382533 0,0.693342 -0.262991,0.310808 0,0.597708 0,0.597708 0,0 1.386684,-0.119542 1.386684,-0.43035 0,-0.310808 -0.358625,-0.71725 -0.310809,-0.8607 0.04782,-0.14345 0.406442,-0.02391 0.478165,0.191267 0.07173,0.215175 0.478169,0.167358 0.525984,0.02391 0.04782,-0.14345 0.215175,-1.314958 0.215175,-1.314958 0,0 -1.099783,0.191266 -1.147598,0.310808 -0.04782,0.119542 -2.892909,0.215175 -2.892909,0.215175 z"
+           id="path10-0-9-7"
+           inkscape:label="цветок правый" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.168324;stroke-dasharray:none;stroke-opacity:1"
+           d="m 80.013243,8.8715519 c -0.04685,-0.2342455 -2.417236,0.077326 -2.994858,0.2678797 -0.590159,0.1946895 -0.818003,0.6670986 -1.327147,0.084914"
+           id="path11-0-2-4"
+           inkscape:label="лыба"
+           sodipodi:nodetypes="csc" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:0.15875;stroke-dasharray:none;stroke-opacity:1"
+           d="m 75.524626,9.5479156 c 0,0.02078 0.08368,-0.3659064 0.418394,-0.5379373"
+           id="path12-3-3-1"
+           inkscape:label="тоже она"
+           sodipodi:nodetypes="cc" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.130997;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse12-6-7-7"
+           cx="77.318375"
+           cy="7.058145"
+           rx="0.14066949"
+           ry="0.2421039"
+           inkscape:label="лев зрачок" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.116936;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse13-2-9-5"
+           cx="78.535606"
+           cy="7.1173143"
+           rx="0.13079436"
+           ry="0.24068163"
+           inkscape:label="прав зрачок" />
+      </g>
+      <g
+         id="g34-7-4-6"
+         inkscape:label="пятна">
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path25-1-3-0"
+           cx="28.164001"
+           cy="11.177139"
+           rx="0.2151749"
+           ry="0.20322073" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path26-1-2-2"
+           cx="27.279394"
+           cy="13.077851"
+           rx="0.19126657"
+           ry="0.14344993" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path27-3-1-8"
+           cx="30.11253"
+           cy="12.432327"
+           rx="0.11356453"
+           ry="0.22712906" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path28-45-7-1"
+           cx="20.274256"
+           cy="11.547719"
+           rx="0.2151749"
+           ry="0.14344993" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path29-3-7-3"
+           cx="18.668999"
+           cy="13.385965"
+           rx="0.19126657"
+           ry="0.28689986" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path30-0-5-4"
+           cx="23.717054"
+           cy="19.604824"
+           rx="0.19126657"
+           ry="0.2151749" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path31-9-11-3"
+           cx="26.729504"
+           cy="2.0441616"
+           rx="0.16735823"
+           ry="0.20322073"
+           inkscape:transform-center-x="-31.367717" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           d="m 29.192059,13.651651 c 0.382747,0.191426 0.475857,-0.127251 0.454258,-0.14345"
+           id="path33-2-9-5"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           d="m 29.144243,14.010276 c 0.144134,0.09425 0.289607,0.184818 0.496098,0.107588 0.155741,-0.04231 0.272385,-0.129298 0.316785,-0.298854"
+           id="path34-7-4-2"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15875;stroke-opacity:1"
+           d="m 26.297254,4.3972958 c -0.314248,-0.083506 -0.627918,-0.1942494 -0.948078,0.00102 0.185107,0.00282 0.392008,-0.061149 0.506316,0.158622 -0.291992,-0.082848 -0.382905,0.1599982 -0.537172,0.3002275 0.250896,-0.042315 0.503709,-0.1750881 0.748874,0.05285"
+           id="path36-83-4-7"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15875;stroke-opacity:1"
+           d="m 25.503631,7.1957935 c -0.267561,-0.20985 0.462859,-0.7161888 0.836834,-0.8283812 0.14841,-0.04511 0.351104,-0.097092 0.642419,0.025359 0.206334,0.079217 0.362203,0.1585606 0.448002,0.1775102 L 27.88734,6.4012239 c 0.2124,-0.048362 0.41419,0.053937 0.481814,0.067623 l 0.270491,0.194416"
+           id="path35-96-3-2"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.135712;stroke-opacity:1"
+           d="m 27.591826,4.4461823 c 0.268804,0.110075 0.553131,0.203104 0.663053,0.4876398 -0.131222,-0.093353 -0.238647,-0.2389687 -0.447175,-0.1625465 0.252841,0.099046 0.174472,0.2950758 0.200458,0.4605486 C 27.841413,5.0769238 27.733127,4.8654144 27.453048,4.8796399"
+           id="path37-1-3-7"
+           sodipodi:nodetypes="ccccc"
+           transform="translate(-0.52598305,-0.28689985)" />
+      </g>
+    </g>
+    <g
+       id="g35-3-2"
+       transform="translate(39.288526,0.62291271)"
+       inkscape:label="патрик с пятнами3">
+      <g
+         id="g13-9-1"
+         transform="translate(-50.303107,-0.47816646)"
+         inkscape:label="патрик "
+         style="fill:#ff8080">
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 69.30707,10.413443 c 2.462443,-0.4922593 4.635457,0.495074 6.894306,1.49039 2.421513,1.066991 -7.761387,1.55102 -8.627588,0.599668 -0.866205,-0.951351 1.733282,-2.090058 1.733282,-2.090058 z"
+           id="path1-9-8"
+           sodipodi:nodetypes="cssc"
+           inkscape:label="левая рука" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 80.230746,13.149123 c 2.06935,-0.351878 3.696989,-0.537755 3.909442,-0.74266 0.131487,-0.126837 0.613334,-1.626897 -2.385163,-2.087759 -2.438575,-0.3748015 -3.845239,1.379117 -3.704744,0.756263 z"
+           id="path2-0-1"
+           sodipodi:nodetypes="csscc"
+           inkscape:label="правая рука" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.297822;stroke-opacity:1"
+           d="m 78.348444,19.5097 c 0,0 1.055355,1.038069 1.685449,1.017561 0.630093,-0.02051 0.967494,-1.759088 0.765896,-2.242185 -0.201603,-0.483095 -0.819047,-1.197484 -0.819047,-1.197484 l -2.003822,1.161789 z"
+           id="path3-80-4"
+           inkscape:label="правая нога" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 70.916659,14.21072 c 0.912911,-4.2940557 1.79201,-4.8350393 1.79201,-4.8350393 0,0 2.479837,-9.38318093 5.590492,-8.74076297 -0.682981,2.44766997 -0.453855,5.41158087 1.137989,8.16596797 1.687273,2.9195083 2.789117,3.3877583 1.961066,5.6127033 -0.585392,1.57293 -10.414598,0.501275 -10.481557,-0.202869 z"
+           id="path4-0-5"
+           sodipodi:nodetypes="cccssc"
+           inkscape:label="торс" />
+        <ellipse
+           style="fill:#ececec;stroke:#000000;stroke-width:0.214242;stroke-opacity:1"
+           id="ellipse4-0-9"
+           cx="78.389404"
+           cy="6.9035273"
+           rx="0.81440616"
+           ry="1.1787462"
+           inkscape:label="правый глаз" />
+        <path
+           style="fill:#c380d0;fill-opacity:1;stroke:#c573e7;stroke-width:0.11647;stroke-dasharray:none;stroke-opacity:1"
+           d="m 78.972769,6.3727964 c -0.207044,-0.4105232 -1.223992,0.189472 -1.223992,0.189472 0,0 0.176584,-0.6953458 0.523699,-0.7010473 0.346484,-0.00569 0.610071,0.2381046 0.690539,0.4774783"
+           id="path5-4-7"
+           sodipodi:nodetypes="ccsc"
+           inkscape:label="правое веко" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.319895;stroke-opacity:1"
+           d="m 72.608368,19.346179 c 0,0 0.770733,1.33139 1.895986,1.376866 1.125255,0.04547 0.923403,-2.783712 0.923403,-2.783712 l -0.590891,-1.099866 -2.683519,1.307641 z"
+           id="path6-8-7"
+           inkscape:label="левая нога" />
+        <path
+           style="fill:#89ff00;fill-opacity:1;stroke:#56175a;stroke-width:0.264307;stroke-opacity:1"
+           d="m 70.839953,14.48827 c -0.08274,0.08275 0.667789,3.215032 0.715696,3.801717 0.05991,0.733676 5.655949,0.313488 4.293639,0.311686 l 0.441049,-0.641829 0.68076,-0.100241 0.09542,0.645575 0.811125,0.143461 c 0,0 3.376756,-0.174296 3.244498,-0.406473 -0.110072,-0.193231 0.692378,-3.572314 0.405562,-3.658255 -0.349611,-0.104757 -0.973048,0.965772 -5.248244,0.597768 -4.621803,-0.39784 -5.372734,-0.76566 -5.391695,-0.741226 z"
+           id="path7-1-8"
+           sodipodi:nodetypes="sscccccssscs"
+           inkscape:label="шорты" />
+        <ellipse
+           style="fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="ellipse7-7-7"
+           cx="77.056519"
+           cy="6.8198485"
+           rx="1.0041494"
+           ry="1.344843"
+           inkscape:label="левый глаз" />
+        <path
+           style="fill:#ca7cdd;fill-opacity:1;stroke:#c573e7;stroke-width:0.160197;stroke-dasharray:none;stroke-opacity:1"
+           d="m 77.826771,6.3913523 c -0.95002,-0.7508968 -1.531534,0.2646518 -1.531534,0.2646518 -0.116193,0.1181407 0.132235,-0.9388967 0.612431,-1.0020585 0.545559,-0.071759 0.845656,0.5141769 0.881335,0.739702"
+           id="path8-5-2"
+           sodipodi:nodetypes="ccsc"
+           inkscape:label="левое веко" />
+        <path
+           style="fill:#a60080;fill-opacity:1;stroke:#56175a;stroke-width:0.15875;stroke-dasharray:none;stroke-opacity:1"
+           d="m 71.222887,16.23375 c 0.741159,-0.07173 0.478166,-0.14345 0.741159,-0.07173 0.262991,0.07173 0.478166,0 0.09563,1.028058 -0.382532,1.028057 0.836792,0.334716 0.836792,0.334716 0,0 0.286901,-0.191267 0.454258,-0.07173 0.16736,0.119542 0.43035,0.478166 0.43035,0.478166 l -0.07173,0.5738 -1.721397,0.09563 c 0,0 -0.382535,-0.191267 -0.454258,-0.454259 -0.07173,-0.262991 -0.310809,-1.912665 -0.310809,-1.912665 z"
+           id="path9-7-5"
+           inkscape:label="цветок левый" />
+        <path
+           style="fill:#c40080;fill-opacity:1;stroke:#561d6e;stroke-width:0.15875;stroke-dasharray:none;stroke-opacity:1"
+           d="m 77.582499,15.181784 c 0.525984,1.267141 0.07173,0.597708 0.573802,1.291049 0.502073,0.693341 0.8607,-0.669433 1.171506,-0.71725 0.310809,-0.04782 0.262993,0.382533 0,0.693342 -0.262991,0.310808 0,0.597708 0,0.597708 0,0 1.386684,-0.119542 1.386684,-0.43035 0,-0.310808 -0.358625,-0.71725 -0.310809,-0.8607 0.04782,-0.14345 0.406442,-0.02391 0.478165,0.191267 0.07173,0.215175 0.478169,0.167358 0.525984,0.02391 0.04782,-0.14345 0.215175,-1.314958 0.215175,-1.314958 0,0 -1.099783,0.191266 -1.147598,0.310808 -0.04782,0.119542 -2.892909,0.215175 -2.892909,0.215175 z"
+           id="path10-0-5"
+           inkscape:label="цветок правый" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.130997;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse12-6-2"
+           cx="77.255348"
+           cy="7.5264087"
+           rx="0.14066949"
+           ry="0.2421039"
+           inkscape:label="лев зрачок" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.116936;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse13-2-3"
+           cx="78.416565"
+           cy="7.5109525"
+           rx="0.13079436"
+           ry="0.24068163"
+           inkscape:label="прав зрачок" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.361;stroke-opacity:1"
+           d="m 76.403778,9.6254651 c 0.218528,0.3546823 0.467695,0.2441057 0.871248,0.2797949 1.750552,-0.1520709 1.69279,-0.395317 2.569071,-0.634815 -0.81094,0.011202 -1.301276,-0.031029 -2.457306,0.037688 l -0.29833,0.0046 -0.109932,-7.529e-4 c -0.438947,0.02086 -0.552711,0.055835 -0.574751,0.313485 z"
+           id="path1"
+           sodipodi:nodetypes="ccccccc" />
+      </g>
+      <g
+         id="g34-7-1"
+         inkscape:label="пятна"
+         transform="translate(0.28689988,-0.63357057)">
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path25-1-2"
+           cx="28.164001"
+           cy="11.177139"
+           rx="0.2151749"
+           ry="0.20322073" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path26-1-0"
+           cx="27.279394"
+           cy="13.077851"
+           rx="0.19126657"
+           ry="0.14344993" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path27-3-5"
+           cx="30.11253"
+           cy="12.432327"
+           rx="0.11356453"
+           ry="0.22712906" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path28-45-0"
+           cx="20.274256"
+           cy="11.547719"
+           rx="0.2151749"
+           ry="0.14344993" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path29-3-8"
+           cx="18.672398"
+           cy="11.356452"
+           rx="0.19126657"
+           ry="0.28689986" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path30-0-3"
+           cx="23.717054"
+           cy="19.604824"
+           rx="0.19126657"
+           ry="0.2151749" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path31-9-1"
+           cx="26.729504"
+           cy="2.0441616"
+           rx="0.16735823"
+           ry="0.20322073"
+           inkscape:transform-center-x="-31.367717" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           d="m 29.192059,13.651651 c 0.382747,0.191426 0.475857,-0.127251 0.454258,-0.14345"
+           id="path33-2-3"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           d="m 29.144243,14.010276 c 0.144134,0.09425 0.289607,0.184818 0.496098,0.107588 0.155741,-0.04231 0.272385,-0.129298 0.316785,-0.298854"
+           id="path34-7-2"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15875;stroke-opacity:1"
+           d="M 26.032806,3.5124368 C 25.7381,3.6498176 25.426375,3.7659239 25.30586,4.1210432 25.449727,4.0045329 25.567503,3.8227946 25.796126,3.9181745 25.518922,4.0417907 25.604842,4.2864485 25.576352,4.4929693 25.741773,4.2996435 25.850673,4.0356659 26.184958,4.0534202"
+           id="path36-83-6"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15875;stroke-opacity:1"
+           d="m 25.503631,7.1957935 c -0.267561,-0.20985 0.462859,-0.7161888 0.836834,-0.8283812 0.14841,-0.04511 0.351104,-0.097092 0.642419,0.025359 0.206334,0.079217 0.362203,0.1585606 0.448002,0.1775102 L 27.88734,6.4012239 c 0.2124,-0.048362 0.41419,0.053937 0.481814,0.067623 l 0.270491,0.194416"
+           id="path35-96-2"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.135712;stroke-opacity:1"
+           d="m 27.591826,4.4461823 c 0.268804,0.110075 0.553131,0.203104 0.663053,0.4876398 -0.131222,-0.093353 -0.238647,-0.2389687 -0.447175,-0.1625465 0.252841,0.099046 0.174472,0.2950758 0.200458,0.4605486 C 27.841413,5.0769238 27.733127,4.8654144 27.453048,4.8796399"
+           id="path37-1-1"
+           sodipodi:nodetypes="ccccc"
+           transform="translate(-0.52598305,-0.28689985)" />
+      </g>
+    </g>
+    <g
+       id="g35-3-2-0"
+       transform="translate(56.450919,-0.05805969)"
+       inkscape:label="патрик с пятнами4">
+      <g
+         id="g13-9-1-5"
+         transform="translate(-50.590007,0.0956333)"
+         inkscape:label="патрик "
+         style="fill:#ff8080">
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="M 72.189056,8.7051671 C 73.523484,10.83243 73.37195,13.214416 73.243428,15.679478 73.10565,18.322055 69.037939,8.9743572 69.61979,7.8268277 70.201639,6.6792948 72.189056,8.7051671 72.189056,8.7051671 Z"
+           id="path1-9-8-2"
+           sodipodi:nodetypes="cssc"
+           inkscape:label="левая рука" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="M 81.356036,12.432342 C 82.433558,10.630961 83.350155,9.2731647 83.33251,8.9785278 83.32157,8.7961632 82.494714,7.4550218 80.195633,9.4343157 78.32587,11.044009 78.744587,13.252993 78.362538,12.741403 Z"
+           id="path2-0-1-6"
+           sodipodi:nodetypes="csscc"
+           inkscape:label="правая рука" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.297822;stroke-opacity:1"
+           d="m 78.672957,19.836813 c 0,0 1.354607,0.596993 1.936593,0.354648 0.581985,-0.242347 0.281745,-1.987726 -0.07789,-2.368106 -0.359638,-0.380375 -1.190079,-0.829769 -1.190079,-0.829769 l -1.462447,1.796192 z"
+           id="path3-80-4-9"
+           inkscape:label="правая нога" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 70.916659,14.21072 c 0.912911,-4.2940557 1.79201,-4.8350393 1.79201,-4.8350393 0,0 2.479837,-9.38318093 5.590492,-8.74076297 -0.682981,2.44766997 -0.453855,5.41158087 1.137989,8.16596797 1.687273,2.9195083 2.789117,3.3877583 1.961066,5.6127033 -0.585392,1.57293 -10.414598,0.501275 -10.481557,-0.202869 z"
+           id="path4-0-5-4"
+           sodipodi:nodetypes="cccssc"
+           inkscape:label="торс" />
+        <ellipse
+           style="fill:#ececec;stroke:#000000;stroke-width:0.214242;stroke-opacity:1"
+           id="ellipse4-0-9-4"
+           cx="78.389404"
+           cy="6.9035273"
+           rx="0.81440616"
+           ry="1.1787462"
+           inkscape:label="правый глаз" />
+        <path
+           style="fill:#c380d0;fill-opacity:1;stroke:#c573e7;stroke-width:0.11647;stroke-dasharray:none;stroke-opacity:1"
+           d="m 78.972769,6.3727964 c -0.207044,-0.4105232 -1.223992,0.189472 -1.223992,0.189472 0,0 0.176584,-0.6953458 0.523699,-0.7010473 0.346484,-0.00569 0.610071,0.2381046 0.690539,0.4774783"
+           id="path5-4-7-0"
+           sodipodi:nodetypes="ccsc"
+           inkscape:label="правое веко" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.319895;stroke-opacity:1"
+           d="m 72.798125,19.625341 c 0,0 1.085518,1.090082 2.184998,0.846348 1.09948,-0.243739 0.180989,-2.92728 0.180989,-2.92728 l -0.852459,-0.912234 -2.259997,1.950285 z"
+           id="path6-8-7-4"
+           inkscape:label="левая нога" />
+        <path
+           style="fill:#89ff00;fill-opacity:1;stroke:#56175a;stroke-width:0.264307;stroke-opacity:1"
+           d="m 70.839953,14.48827 c -0.08274,0.08275 0.667789,3.215032 0.715696,3.801717 0.05991,0.733676 5.655949,0.313488 4.293639,0.311686 l 0.441049,-0.641829 0.68076,-0.100241 0.09542,0.645575 0.811125,0.143461 c 0,0 3.376756,-0.174296 3.244498,-0.406473 -0.110072,-0.193231 0.692378,-3.572314 0.405562,-3.658255 -0.349611,-0.104757 -0.973048,0.965772 -5.248244,0.597768 -4.621803,-0.39784 -5.372734,-0.76566 -5.391695,-0.741226 z"
+           id="path7-1-8-9"
+           sodipodi:nodetypes="sscccccssscs"
+           inkscape:label="шорты" />
+        <ellipse
+           style="fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="ellipse7-7-7-0"
+           cx="77.056519"
+           cy="6.8198485"
+           rx="1.0041494"
+           ry="1.344843"
+           inkscape:label="левый глаз" />
+        <path
+           style="fill:#ca7cdd;fill-opacity:1;stroke:#c573e7;stroke-width:0.160197;stroke-dasharray:none;stroke-opacity:1"
+           d="m 77.826771,6.3913523 c -0.95002,-0.7508968 -1.531534,0.2646518 -1.531534,0.2646518 -0.116193,0.1181407 0.132235,-0.9388967 0.612431,-1.0020585 0.545559,-0.071759 0.845656,0.5141769 0.881335,0.739702"
+           id="path8-5-2-8"
+           sodipodi:nodetypes="ccsc"
+           inkscape:label="левое веко" />
+        <path
+           style="fill:#a60080;fill-opacity:1;stroke:#56175a;stroke-width:0.15875;stroke-dasharray:none;stroke-opacity:1"
+           d="m 71.222887,16.23375 c 0.741159,-0.07173 0.478166,-0.14345 0.741159,-0.07173 0.262991,0.07173 0.478166,0 0.09563,1.028058 -0.382532,1.028057 0.836792,0.334716 0.836792,0.334716 0,0 0.286901,-0.191267 0.454258,-0.07173 0.16736,0.119542 0.43035,0.478166 0.43035,0.478166 l -0.07173,0.5738 -1.721397,0.09563 c 0,0 -0.382535,-0.191267 -0.454258,-0.454259 -0.07173,-0.262991 -0.310809,-1.912665 -0.310809,-1.912665 z"
+           id="path9-7-5-5"
+           inkscape:label="цветок левый" />
+        <path
+           style="fill:#c40080;fill-opacity:1;stroke:#561d6e;stroke-width:0.15875;stroke-dasharray:none;stroke-opacity:1"
+           d="m 77.582499,15.181784 c 0.525984,1.267141 0.07173,0.597708 0.573802,1.291049 0.502073,0.693341 0.8607,-0.669433 1.171506,-0.71725 0.310809,-0.04782 0.262993,0.382533 0,0.693342 -0.262991,0.310808 0,0.597708 0,0.597708 0,0 1.386684,-0.119542 1.386684,-0.43035 0,-0.310808 -0.358625,-0.71725 -0.310809,-0.8607 0.04782,-0.14345 0.406442,-0.02391 0.478165,0.191267 0.07173,0.215175 0.478169,0.167358 0.525984,0.02391 0.04782,-0.14345 0.215175,-1.314958 0.215175,-1.314958 0,0 -1.099783,0.191266 -1.147598,0.310808 -0.04782,0.119542 -2.892909,0.215175 -2.892909,0.215175 z"
+           id="path10-0-5-2"
+           inkscape:label="цветок правый" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.130997;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse12-6-2-0"
+           cx="77.327072"
+           cy="6.9526091"
+           rx="0.14066949"
+           ry="0.2421039"
+           inkscape:label="лев зрачок" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.116936;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse13-2-3-7"
+           cx="78.416565"
+           cy="7.5109525"
+           rx="0.13079436"
+           ry="0.24068163"
+           inkscape:label="прав зрачок" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.361;stroke-opacity:1"
+           d="m 76.403778,9.6254651 c 0.218528,0.3546823 0.467695,0.2441057 0.871248,0.2797949 1.750552,-0.1520709 1.69279,-0.395317 2.569071,-0.634815 -0.81094,0.011202 -1.301276,-0.031029 -2.457306,0.037688 l -0.29833,0.0046 -0.109932,-7.529e-4 c -0.438947,0.02086 -0.552711,0.055835 -0.574751,0.313485 z"
+           id="path1-5"
+           sodipodi:nodetypes="ccccccc" />
+      </g>
+      <g
+         id="g34-7-1-9"
+         inkscape:label="пятна"
+         transform="translate(0,-0.01195416)">
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path25-1-2-5"
+           cx="28.164001"
+           cy="11.177139"
+           rx="0.2151749"
+           ry="0.20322073" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path26-1-0-4"
+           cx="27.279394"
+           cy="13.077851"
+           rx="0.19126657"
+           ry="0.14344993" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path27-3-5-8"
+           cx="30.11253"
+           cy="12.432327"
+           rx="0.11356453"
+           ry="0.22712906" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path28-45-0-8"
+           cx="21.278406"
+           cy="9.7306862"
+           rx="0.2151749"
+           ry="0.14344993" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path29-3-8-6"
+           cx="20.20253"
+           cy="8.7265368"
+           rx="0.19126657"
+           ry="0.28689986" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path30-0-3-8"
+           cx="23.717054"
+           cy="19.604824"
+           rx="0.19126657"
+           ry="0.2151749" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path31-9-1-2"
+           cx="26.729504"
+           cy="2.0441616"
+           rx="0.16735823"
+           ry="0.20322073"
+           inkscape:transform-center-x="-31.367717" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           d="m 29.192059,13.651651 c 0.382747,0.191426 0.475857,-0.127251 0.454258,-0.14345"
+           id="path33-2-3-4"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           d="m 29.144243,14.010276 c 0.144134,0.09425 0.289607,0.184818 0.496098,0.107588 0.155741,-0.04231 0.272385,-0.129298 0.316785,-0.298854"
+           id="path34-7-2-1"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15875;stroke-opacity:1"
+           d="m 26.239932,4.2528111 c -0.322277,0.043158 -0.654447,0.060932 -0.875461,0.3638935 0.172083,-0.068259 0.338735,-0.2065613 0.528469,-0.047292 -0.301465,0.035245 -0.292484,0.2943957 -0.381315,0.4829997 0.215582,-0.1351404 0.398308,-0.3545826 0.712057,-0.2378635"
+           id="path36-83-6-9"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15875;stroke-opacity:1"
+           d="m 25.503631,7.1957935 c -0.267561,-0.20985 0.462859,-0.7161888 0.836834,-0.8283812 0.14841,-0.04511 0.351104,-0.097092 0.642419,0.025359 0.206334,0.079217 0.362203,0.1585606 0.448002,0.1775102 L 27.88734,6.4012239 c 0.2124,-0.048362 0.41419,0.053937 0.481814,0.067623 l 0.270491,0.194416"
+           id="path35-96-2-8"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.135712;stroke-opacity:1"
+           d="m 26.948827,3.7416128 c 0.279369,0.07953 0.572271,0.140395 0.713124,0.4109581 -0.140781,-0.078197 -0.263719,-0.210977 -0.462465,-0.1118607 0.262279,0.070343 0.206174,0.273866 0.250382,0.4354273 -0.182925,-0.135416 -0.314039,-0.3335859 -0.590804,-0.2883322"
+           id="path37-1-1-8"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+    </g>
+    <g
+       id="g35-3-2-4"
+       transform="translate(72.618259,0.35438672)"
+       inkscape:label="патрик с пятнами3">
+      <g
+         id="g13-9-1-1"
+         transform="translate(-50.303107,-0.47816646)"
+         inkscape:label="патрик "
+         style="fill:#ff8080">
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 69.30707,10.413443 c 2.462443,-0.4922593 4.635457,0.495074 6.894306,1.49039 2.421513,1.066991 -7.761387,1.55102 -8.627588,0.599668 -0.866205,-0.951351 1.733282,-2.090058 1.733282,-2.090058 z"
+           id="path1-9-8-1"
+           sodipodi:nodetypes="cssc"
+           inkscape:label="левая рука" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 80.230746,13.149123 c 2.06935,-0.351878 3.696989,-0.537755 3.909442,-0.74266 0.131487,-0.126837 0.613334,-1.626897 -2.385163,-2.087759 -2.438575,-0.3748015 -3.845239,1.379117 -3.704744,0.756263 z"
+           id="path2-0-1-1"
+           sodipodi:nodetypes="csscc"
+           inkscape:label="правая рука" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.297822;stroke-opacity:1"
+           d="m 78.348444,19.5097 c 0,0 1.055355,1.038069 1.685449,1.017561 0.630093,-0.02051 0.967494,-1.759088 0.765896,-2.242185 -0.201603,-0.483095 -0.819047,-1.197484 -0.819047,-1.197484 l -2.003822,1.161789 z"
+           id="path3-80-4-96"
+           inkscape:label="правая нога" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.264583;stroke-opacity:1"
+           d="m 70.916659,14.21072 c 0.912911,-4.2940557 1.79201,-4.8350393 1.79201,-4.8350393 0,0 2.479837,-9.38318093 5.590492,-8.74076297 -0.682981,2.44766997 -0.453855,5.41158087 1.137989,8.16596797 1.687273,2.9195083 2.789117,3.3877583 1.961066,5.6127033 -0.585392,1.57293 -10.414598,0.501275 -10.481557,-0.202869 z"
+           id="path4-0-5-41"
+           sodipodi:nodetypes="cccssc"
+           inkscape:label="торс" />
+        <ellipse
+           style="fill:#ececec;stroke:#000000;stroke-width:0.214242;stroke-opacity:1"
+           id="ellipse4-0-9-2"
+           cx="78.389404"
+           cy="6.9035273"
+           rx="0.81440616"
+           ry="1.1787462"
+           inkscape:label="правый глаз" />
+        <path
+           style="fill:#c380d0;fill-opacity:1;stroke:#c573e7;stroke-width:0.11647;stroke-dasharray:none;stroke-opacity:1"
+           d="m 78.972769,6.3727964 c -0.207044,-0.4105232 -1.223992,0.189472 -1.223992,0.189472 0,0 0.176584,-0.6953458 0.523699,-0.7010473 0.346484,-0.00569 0.610071,0.2381046 0.690539,0.4774783"
+           id="path5-4-7-7"
+           sodipodi:nodetypes="ccsc"
+           inkscape:label="правое веко" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#ff553e;stroke-width:0.319895;stroke-opacity:1"
+           d="m 72.608368,19.346179 c 0,0 0.770733,1.33139 1.895986,1.376866 1.125255,0.04547 0.923403,-2.783712 0.923403,-2.783712 l -0.590891,-1.099866 -2.683519,1.307641 z"
+           id="path6-8-7-3"
+           inkscape:label="левая нога" />
+        <path
+           style="fill:#89ff00;fill-opacity:1;stroke:#56175a;stroke-width:0.264307;stroke-opacity:1"
+           d="m 70.839953,14.48827 c -0.08274,0.08275 0.667789,3.215032 0.715696,3.801717 0.05991,0.733676 5.655949,0.313488 4.293639,0.311686 l 0.441049,-0.641829 0.68076,-0.100241 0.09542,0.645575 0.811125,0.143461 c 0,0 3.376756,-0.174296 3.244498,-0.406473 -0.110072,-0.193231 0.692378,-3.572314 0.405562,-3.658255 -0.349611,-0.104757 -0.973048,0.965772 -5.248244,0.597768 -4.621803,-0.39784 -5.372734,-0.76566 -5.391695,-0.741226 z"
+           id="path7-1-8-99"
+           sodipodi:nodetypes="sscccccssscs"
+           inkscape:label="шорты" />
+        <ellipse
+           style="fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="ellipse7-7-7-2"
+           cx="77.056519"
+           cy="6.8198485"
+           rx="1.0041494"
+           ry="1.344843"
+           inkscape:label="левый глаз" />
+        <path
+           style="fill:#ca7cdd;fill-opacity:1;stroke:#c573e7;stroke-width:0.160197;stroke-dasharray:none;stroke-opacity:1"
+           d="m 77.826771,6.3913523 c -0.95002,-0.7508968 -1.531534,0.2646518 -1.531534,0.2646518 -0.116193,0.1181407 0.132235,-0.9388967 0.612431,-1.0020585 0.545559,-0.071759 0.845656,0.5141769 0.881335,0.739702"
+           id="path8-5-2-4"
+           sodipodi:nodetypes="ccsc"
+           inkscape:label="левое веко" />
+        <path
+           style="fill:#a60080;fill-opacity:1;stroke:#56175a;stroke-width:0.15875;stroke-dasharray:none;stroke-opacity:1"
+           d="m 71.222887,16.23375 c 0.741159,-0.07173 0.478166,-0.14345 0.741159,-0.07173 0.262991,0.07173 0.478166,0 0.09563,1.028058 -0.382532,1.028057 0.836792,0.334716 0.836792,0.334716 0,0 0.286901,-0.191267 0.454258,-0.07173 0.16736,0.119542 0.43035,0.478166 0.43035,0.478166 l -0.07173,0.5738 -1.721397,0.09563 c 0,0 -0.382535,-0.191267 -0.454258,-0.454259 -0.07173,-0.262991 -0.310809,-1.912665 -0.310809,-1.912665 z"
+           id="path9-7-5-2"
+           inkscape:label="цветок левый" />
+        <path
+           style="fill:#c40080;fill-opacity:1;stroke:#561d6e;stroke-width:0.15875;stroke-dasharray:none;stroke-opacity:1"
+           d="m 77.582499,15.181784 c 0.525984,1.267141 0.07173,0.597708 0.573802,1.291049 0.502073,0.693341 0.8607,-0.669433 1.171506,-0.71725 0.310809,-0.04782 0.262993,0.382533 0,0.693342 -0.262991,0.310808 0,0.597708 0,0.597708 0,0 1.386684,-0.119542 1.386684,-0.43035 0,-0.310808 -0.358625,-0.71725 -0.310809,-0.8607 0.04782,-0.14345 0.406442,-0.02391 0.478165,0.191267 0.07173,0.215175 0.478169,0.167358 0.525984,0.02391 0.04782,-0.14345 0.215175,-1.314958 0.215175,-1.314958 0,0 -1.099783,0.191266 -1.147598,0.310808 -0.04782,0.119542 -2.892909,0.215175 -2.892909,0.215175 z"
+           id="path10-0-5-9"
+           inkscape:label="цветок правый" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.130997;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse12-6-2-4"
+           cx="77.255348"
+           cy="7.5264087"
+           rx="0.14066949"
+           ry="0.2421039"
+           inkscape:label="лев зрачок" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.116936;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse13-2-3-2"
+           cx="78.416565"
+           cy="7.5109525"
+           rx="0.13079436"
+           ry="0.24068163"
+           inkscape:label="прав зрачок" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.361;stroke-opacity:1"
+           d="m 76.403778,9.6254651 c 0.218528,0.3546823 0.467695,0.2441057 0.871248,0.2797949 1.750552,-0.1520709 1.69279,-0.395317 2.569071,-0.634815 -0.81094,0.011202 -1.301276,-0.031029 -2.457306,0.037688 l -0.29833,0.0046 -0.109932,-7.529e-4 c -0.438947,0.02086 -0.552711,0.055835 -0.574751,0.313485 z"
+           id="path1-6"
+           sodipodi:nodetypes="ccccccc" />
+      </g>
+      <g
+         id="g34-7-1-6"
+         inkscape:label="пятна"
+         transform="translate(0.28689988,-0.63357057)">
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path25-1-2-0"
+           cx="28.164001"
+           cy="11.177139"
+           rx="0.2151749"
+           ry="0.20322073" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path26-1-0-6"
+           cx="27.279394"
+           cy="13.077851"
+           rx="0.19126657"
+           ry="0.14344993" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path27-3-5-0"
+           cx="30.11253"
+           cy="12.432327"
+           rx="0.11356453"
+           ry="0.22712906" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path28-45-0-2"
+           cx="20.274256"
+           cy="11.547719"
+           rx="0.2151749"
+           ry="0.14344993" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path29-3-8-3"
+           cx="18.672398"
+           cy="11.356452"
+           rx="0.19126657"
+           ry="0.28689986" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path30-0-3-3"
+           cx="23.717054"
+           cy="19.604824"
+           rx="0.19126657"
+           ry="0.2151749" />
+        <ellipse
+           style="fill:#ff6440;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           id="path31-9-1-23"
+           cx="26.729504"
+           cy="2.0441616"
+           rx="0.16735823"
+           ry="0.20322073"
+           inkscape:transform-center-x="-31.367717" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           d="m 29.192059,13.651651 c 0.382747,0.191426 0.475857,-0.127251 0.454258,-0.14345"
+           id="path33-2-3-8"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#e95f3e;stroke-width:0.15875;stroke-opacity:1"
+           d="m 29.144243,14.010276 c 0.144134,0.09425 0.289607,0.184818 0.496098,0.107588 0.155741,-0.04231 0.272385,-0.129298 0.316785,-0.298854"
+           id="path34-7-2-9"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15875;stroke-opacity:1"
+           d="M 26.032806,3.5124368 C 25.7381,3.6498176 25.426375,3.7659239 25.30586,4.1210432 25.449727,4.0045329 25.567503,3.8227946 25.796126,3.9181745 25.518922,4.0417907 25.604842,4.2864485 25.576352,4.4929693 25.741773,4.2996435 25.850673,4.0356659 26.184958,4.0534202"
+           id="path36-83-6-0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15875;stroke-opacity:1"
+           d="m 25.503631,7.1957935 c -0.267561,-0.20985 0.462859,-0.7161888 0.836834,-0.8283812 0.14841,-0.04511 0.351104,-0.097092 0.642419,0.025359 0.206334,0.079217 0.362203,0.1585606 0.448002,0.1775102 L 27.88734,6.4012239 c 0.2124,-0.048362 0.41419,0.053937 0.481814,0.067623 l 0.270491,0.194416"
+           id="path35-96-2-0"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.135712;stroke-opacity:1"
+           d="m 27.591826,4.4461823 c 0.268804,0.110075 0.553131,0.203104 0.663053,0.4876398 -0.131222,-0.093353 -0.238647,-0.2389687 -0.447175,-0.1625465 0.252841,0.099046 0.174472,0.2950758 0.200458,0.4605486 C 27.841413,5.0769238 27.733127,4.8654144 27.453048,4.8796399"
+           id="path37-1-1-84"
+           sodipodi:nodetypes="ccccc"
+           transform="translate(-0.52598305,-0.28689985)" />
+      </g>
+    </g>
+  </g>
+</svg>
